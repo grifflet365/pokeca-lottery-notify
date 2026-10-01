@@ -1,0 +1,17 @@
+{
+  "areas": [
+    "全国",
+    "東京",
+    "千葉"
+  ],
+  "product_keywords": [],
+  "exclude_keywords": [
+    "サントリー",
+    "BOSS",
+    "シティリーグ"
+  ],
+  "official_keywords": [
+    "抽選"
+  ],
+  "remind_hours_before": 24
+}
