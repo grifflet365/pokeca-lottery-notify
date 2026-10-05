@@ -1,9 +1,14 @@
-"""ポケカ抽選情報を監視して、新着と締切間近をDiscordに通知する。
+"""ポケカ抽選情報を監視して、応募する価値のあるものだけをDiscordに通知する。
 
 情報源:
   - ポケカ抽選図鑑 (pokeca-navi.jp)      個人店・Xリポスト系に強い
   - 入荷Now (nyuka-now.com)              大手チェーン・アプリ抽選に強い
   - ポケモンカード公式のお知らせ          ポケセンオンラインの抽選告知
+
+通知の段階:
+  A  通販(家から応募でき、配送で届く)      見つけ次第すぐ通知 + 締切前リマインド
+  B  生活圏の店舗で受け取るもの など       1日1回、朝にまとめて1通
+  C  生活圏外・対象外の商品                通知しない
 
 環境変数 DISCORD_WEBHOOK_URL が無い場合は送信せず、標準出力に表示する。
 """
@@ -40,7 +45,31 @@ NYUKA_SECTIONS = {
     "【会員限定】抽選販売情報": "会員限定",
 }
 
-COLORS = {"new": 0x2ECC71, "remind": 0xE67E22, "warn": 0xE74C3C}
+# 受け取り方法の区分と、通知での見せ方
+DELIVERY_LABELS = {
+    "online": "📦 通販(配送で届く)",
+    "maybe_online": "📦 全国から応募可(受け取り方法は要確認)",
+    "pickup": "🏬 店頭受け取り",
+}
+COLORS = {
+    "online": 0x3498DB,
+    "maybe_online": 0x1ABC9C,
+    "pickup": 0x95A5A6,
+    "official": 0x2ECC71,
+    "remind": 0xE67E22,
+}
+
+# 説明文から受け取り方法を読み取るためのパターン
+SHIP_RE = re.compile(
+    r"郵送(OK|可|対応|も)|または郵送|配送(可|対応|いたします)|通販(サイト|店|での|にて)|"
+    r"オンライン販売|発送(します|いたします)|宅配"
+)
+PICKUP_RE = re.compile(
+    r"来店|店頭(のみ|限定|販売|購入|受け?取|引き?渡し|にて|で)|"
+    r"配送(は|なし|不可)|発送(は|せず|なし|不可)|店舗(で|へ|にて)"
+)
+ONLINE_SHOP_RE = re.compile(r"オンライン|通販|ドット・?コム|\.com|Amazon|楽天|DMM", re.I)
+MULTI_STORE_RE = re.compile(r"各店|一部店舗|グループ")
 
 
 def fetch(url):
@@ -239,14 +268,79 @@ def drop_cross_source_duplicates(items):
     return result
 
 
-def build_embed(item, kind):
-    title = item["shop"] if item["source"] != "公式" else item["product"]
-    if kind == "remind":
-        title = f"⏰ 締切間近: {title}"
+def is_wanted_product(product, unwanted_keywords):
+    """「A、B」のように複数商品が並ぶ場合は、1つでも対象商品があれば対象にする。"""
+    parts = [p.strip() for p in re.split(r"[、/／]", product) if p.strip()] or [product]
+    return any(not any(k in p for k in unwanted_keywords) for p in parts)
+
+
+def detect_delivery(item):
+    """受け取り方法を online / maybe_online / pickup のいずれかに判定する。"""
+    shop, detail, method = item["shop"], item.get("detail", ""), item.get("method", "")
+    if item["source"] == "入荷Now":
+        if "オンライン販売" in method:
+            return "online"
+        if "店頭" in method:
+            return "pickup"
+        return "online" if ONLINE_SHOP_RE.search(shop) else "pickup"
+    # 「店頭受取または郵送OK」のように配送が明記されていれば通販扱い
+    if SHIP_RE.search(detail) or ONLINE_SHOP_RE.search(shop):
+        return "online"
+    if PICKUP_RE.search(detail):
+        return "pickup"
+    # 地域ラベルが「全国」でも受け取り方法が書かれていないものは、断定しない
+    return "maybe_online" if item["area"] == "全国" else "pickup"
+
+
+def classify(item, config):
+    """item に tier(A/B/C)・delivery・reason を書き込む。"""
+    if item["source"] == "公式":
+        item.update(tier="A", delivery="official", reason="公式告知")
+        return
+    delivery = detect_delivery(item)
+    item["delivery"] = delivery
+    text = f"{item['shop']} {item.get('detail', '')}"
+
+    if not is_wanted_product(item["product"], config["unwanted_product_keywords"]):
+        tier, reason = "C", "対象外の商品"
+    elif "プロモカード" in item.get("detail", ""):
+        tier, reason = "C", "商品の抽選販売ではない"
+    elif delivery != "pickup":
+        if "招待制" in item.get("method", ""):
+            tier, reason = "B", "招待制(抽選ではない)"
+        else:
+            tier, reason = "A", DELIVERY_LABELS[delivery]
+    else:
+        place = next((p for p in config["places"] if p in text), None)
+        other_chain = next((k for k in config["other_electronics"] if k in item["shop"]), None)
+        if place:
+            tier, reason = "B", f"生活圏({place})"
+        elif other_chain:
+            tier, reason = "C", f"{other_chain}の店頭受け取り"
+        elif (
+            item["source"] == "入荷Now"
+            or item.get("area") == "全国"
+            or MULTI_STORE_RE.search(item["shop"])
+        ):
+            tier, reason = "B", "店舗は要確認"
+        else:
+            tier, reason = "C", "生活圏外の店舗"
+    item.update(tier=tier, reason=reason)
+
+
+def build_embed(item, remind=False):
+    delivery = item["delivery"]
+    if delivery == "official":
+        title = item["product"]
+    else:
+        title = f"{DELIVERY_LABELS[delivery].split('(')[0]} | {item['shop']}"
+    if remind:
+        title = f"⏰ 締切間近 | {title}"
     lines = []
-    if item["source"] != "公式":
+    if delivery != "official":
         lines.append(f"**{item['product']}**")
-    meta = [x for x in (item.get("area"), item.get("method"), item.get("status")) if x]
+        lines.append(f"**{DELIVERY_LABELS[delivery]}**")
+    meta = [x for x in (item.get("method"), item.get("status")) if x]
     if meta:
         lines.append(" / ".join(meta))
     if item.get("start_text"):
@@ -259,9 +353,43 @@ def build_embed(item, kind):
         "title": title[:250],
         "url": item["url"],
         "description": "\n".join(lines)[:2000],
-        "color": COLORS[kind],
+        "color": COLORS["remind"] if remind else COLORS[delivery],
         "footer": {"text": item["source"]},
     }
+
+
+def build_digest_embeds(items):
+    """B段階のものを1件1行にまとめる。通販を先頭に出す。"""
+    groups = [
+        ("📦 通販", [i for i in items if i["delivery"] != "pickup"]),
+        ("🏬 店頭受け取り(生活圏)", [i for i in items if i["delivery"] == "pickup" and i["reason"].startswith("生活圏")]),
+        ("🏬 店頭受け取り(店舗は要確認)", [i for i in items if i["delivery"] == "pickup" and not i["reason"].startswith("生活圏")]),
+    ]
+    far = datetime.max.replace(tzinfo=JST)
+    embeds = []
+    for heading, group in groups:
+        if not group:
+            continue
+        group.sort(key=lambda i: i["deadline"] or far)
+        lines = []
+        for i in group:
+            deadline = f" 〆{i['deadline_text']}" if i.get("deadline_text") else ""
+            note = f" ({i['reason']})" if i["delivery"] != "pickup" or "生活圏" in i["reason"] else ""
+            lines.append(f"・[{i['shop']}]({i['url']}) {i['product'][:40]}{deadline}{note}")
+        # embedの説明文は4096文字までなので、長ければ分ける
+        chunk = []
+        for line in lines + [None]:
+            if line is None or sum(len(x) + 1 for x in chunk) + len(line) > 3500:
+                if chunk:
+                    embeds.append({
+                        "title": f"{heading} {len(group)}件",
+                        "description": "\n".join(chunk),
+                        "color": COLORS["online" if heading.startswith("📦") else "pickup"],
+                    })
+                chunk = []
+            if line:
+                chunk.append(line)
+    return embeds
 
 
 def send(webhook, content, embeds):
@@ -269,8 +397,11 @@ def send(webhook, content, embeds):
     if not webhook:
         print(f"\n[DRY RUN] {content}")
         for e in embeds:
-            print(f"  - {e['title']} | {e['description'].replace(chr(10), ' | ')[:160]}")
-            print(f"    {e['url']}")
+            print(f"  ■ {e['title']}")
+            for line in e["description"].split("\n"):
+                print(f"      {line[:150]}")
+            if e.get("url"):
+                print(f"      {e['url']}")
         return
     chunks = [embeds[i:i + 10] for i in range(0, len(embeds), 10)] or [[]]
     for n, chunk in enumerate(chunks):
@@ -317,41 +448,68 @@ def main():
 
     items = [i for i in items if passes_filter(i, config)]
     items = drop_cross_source_duplicates(items)
-
-    new_items = []
-    reminders = []
-    remind_within = timedelta(hours=config["remind_hours_before"])
     for item in items:
+        classify(item, config)
+
+    new_a = []
+    reminders = []
+    digest = []
+    remind_within = timedelta(hours=config["remind_hours_before"])
+    # まとめは1日1回、指定時刻を過ぎた最初の実行で送る
+    digest_due = (
+        now.hour >= config["digest_hour"]
+        and state.get("last_digest") != now.strftime("%Y-%m-%d")
+    )
+    for item in items:
+        is_open = not item["deadline"] or item["deadline"] > now
         entry = seen.get(item["id"])
         if entry is None:
-            # 既に締切を過ぎているものは通知しない
-            if not item["deadline"] or item["deadline"] > now:
-                new_items.append(item)
             entry = seen[item["id"]] = {
                 "shop": item["shop"],
                 "product": item["product"],
                 "first_seen": now.isoformat(timespec="minutes"),
+                "notified": False,
                 "reminded": False,
             }
-            # 見つけた時点で締切が近いものは、新着通知だけにしてリマインドを重ねない
-            if item["deadline"] and item["deadline"] - now <= remind_within:
-                entry["reminded"] = True
-        elif (
-            not entry.get("reminded")
-            and item["deadline"]
-            and now < item["deadline"] <= now + remind_within
-        ):
-            reminders.append(item)
-            entry["reminded"] = True
+        entry["tier"] = item["tier"]
         entry["last_seen"] = now.isoformat(timespec="minutes")
+        # "notified" が無いのは段階分けの導入前に通知済みの記録
+        notified = entry.get("notified", True)
 
-    new_items.sort(key=lambda i: i["deadline"] or datetime.max.replace(tzinfo=JST))
-    if new_items:
-        send(webhook, f"🎴 ポケカ抽選 新着 {len(new_items)}件",
-             [build_embed(i, "new") for i in new_items])
+        if item["tier"] == "A":
+            if not notified:
+                if is_open:
+                    new_a.append(item)
+                entry["notified"] = True
+                # 見つけた時点で締切が近いものは、新着通知だけにしてリマインドを重ねない
+                if item["deadline"] and item["deadline"] - now <= remind_within:
+                    entry["reminded"] = True
+            elif (
+                not entry.get("reminded")
+                and item["deadline"]
+                and now < item["deadline"] <= now + remind_within
+            ):
+                reminders.append(item)
+                entry["reminded"] = True
+        elif item["tier"] == "B" and not notified and digest_due:
+            if is_open:
+                digest.append(item)
+            entry["notified"] = True
+
+    far = datetime.max.replace(tzinfo=JST)
+    # 通販と確定しているものを先頭に、その中では締切が近い順
+    new_a.sort(key=lambda i: (i["delivery"] != "online", i["deadline"] or far))
+    if new_a:
+        send(webhook, f"🎴 ポケカ抽選 新着 {len(new_a)}件(家から応募できるもの)",
+             [build_embed(i) for i in new_a])
     if reminders:
         send(webhook, f"⏰ 締切まで{config['remind_hours_before']}時間以内 {len(reminders)}件",
-             [build_embed(i, "remind") for i in reminders])
+             [build_embed(i, remind=True) for i in reminders])
+    if digest:
+        send(webhook, f"🗓 今日のまとめ {len(digest)}件(行けるなら応募)",
+             build_digest_embeds(digest))
+    if digest_due:
+        state["last_digest"] = now.strftime("%Y-%m-%d")
 
     # 情報源が壊れたとき(サイト構造の変更など)は、壊れた最初の1回だけ知らせる
     newly_broken = [s for s in broken if s not in state.get("broken_sources", [])]
@@ -368,7 +526,13 @@ def main():
         json.dumps(state, ensure_ascii=False, indent=1, sort_keys=True) + "\n",
         encoding="utf-8",
     )
-    print(f"新着 {len(new_items)}件 / リマインド {len(reminders)}件 / 対象 {len(items)}件")
+    tiers = {t: sum(1 for i in items if i["tier"] == t) for t in "ABC"}
+    print(f"新着 {len(new_a)}件 / リマインド {len(reminders)}件 / まとめ {len(digest)}件 / "
+          f"掲載中 A:{tiers['A']} B:{tiers['B']} C:{tiers['C']}")
+    if os.environ.get("SHOW_TIERS"):
+        for t in "ABC":
+            for i in (x for x in items if x["tier"] == t):
+                print(f"  {t} [{i['delivery']}] {i['shop']} | {i['product'][:36]} | {i['reason']}")
 
 
 if __name__ == "__main__":
