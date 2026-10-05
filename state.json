@@ -3,35 +3,35 @@
  "items": {
   "00cdfb5c2ba2c997": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "トレカBH秋葉原"
   },
   "00fbdc7dbbd79d92": {
    "first_seen": "2026-10-04T17:19+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "インフェルノX",
    "reminded": false,
    "shop": "TSUTAYA府中駅前"
   },
   "031d8afd698da672": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "ブックオフユーカリが丘スカイプラザ"
   },
   "075263cad55e2d27": {
    "first_seen": "2026-10-05T00:17+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "ポケモンカード 30th CELEBRATION BOX、ONE PIECEカードゲーム ブースターパック 世界最強の戦士【OP-17】",
    "reminded": false,
    "shop": "ノジマオンライン"
   },
   "0eb8d6727ae9848c": {
    "first_seen": "2026-10-05T04:32+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "ピットイン"
@@ -45,23 +45,23 @@
   },
   "170e5453cd873e03": {
    "first_seen": "2026-10-03T16:58+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
    "shop": "CARDWINGS八王子駅前店"
   },
   "1a53457b300ba76e": {
    "first_seen": "2026-10-02T17:23+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "ポケモンカード 30th CELEBRATION カードセット各種",
-   "reminded": false,
+   "reminded": true,
    "shop": "ヨドバシ・ドット・コム"
   },
   "1ae3af52a60e93e2": {
    "first_seen": "2026-10-03T16:58+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "ポケモンカード 30th CELEBRATION カードセット各種",
-   "reminded": false,
+   "reminded": true,
    "shop": "フルコンプ 一部店舗"
   },
   "1d9b5c6dc981df0f": {
@@ -73,14 +73,14 @@
   },
   "24069dba2e962757": {
    "first_seen": "2026-10-03T07:06+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": true,
    "shop": "おたちゅう。秋葉原5号店"
   },
   "27ca1a691f927b75": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "カードショップクラクラ"
@@ -94,7 +94,7 @@
   },
   "2e8cc50b973a9f9a": {
    "first_seen": "2026-10-05T00:17+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "ドラゴンスター"
@@ -108,7 +108,7 @@
   },
   "3c154e2b2ff4f51f": {
    "first_seen": "2026-10-03T10:08+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "ポケモンカード 30th CELEBRATION カードセット各種、ポケモンカード メガブレイブ、ポケモンカード メガシンフォニア、ポケモンカード インフェルノX、ポケモンカード MEGAドリームex、ポケモンカード スタートデッキ100 バトルコレクション、ポケモンカード ムニキスゼロ、ポケモンカード ニンジャスピナー、ポケモンカード アビスアイ、ポケモンカード ストームエメラルダ",
    "reminded": false,
    "shop": "平和堂"
@@ -122,7 +122,7 @@
   },
   "4812e9d60ac8b8c3": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "ポケモンカード 30th CELEBRATION カードセット各種",
    "reminded": false,
    "shop": "ホビーゾーン各店"
@@ -143,14 +143,14 @@
   },
   "56736d6e04bd52a0": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "カードコレクト秋葉原本店"
   },
   "575baaaf4c10f7dd": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "magi池袋店"
@@ -178,7 +178,7 @@
   },
   "6877e85a9609cc16": {
    "first_seen": "2026-10-03T01:13+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "ポケモンカード 30th CELEBRATION カードセット各種",
    "reminded": false,
    "shop": "コジマ（アプリ）"
@@ -192,7 +192,7 @@
   },
   "6cc171b32626cae7": {
    "first_seen": "2026-10-03T16:58+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION カードセット",
    "reminded": false,
    "shop": "TCGshop193"
@@ -206,14 +206,14 @@
   },
   "81f1fd94e26913c0": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "バトルマスターデッキ パオジアンex",
    "reminded": false,
    "shop": "ガンギ(GANGI)"
   },
   "86046b7c1a059c4d": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "ポケモンセンターオンラインでの商品の抽選受け付けについて (外部リンク)",
    "reminded": false,
    "shop": "ポケモンカード公式のお知らせ"
@@ -227,56 +227,63 @@
   },
   "8d686276f8e62467": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "インフェルノX",
    "reminded": true,
    "shop": "ポケモンセンターオンライン"
   },
   "8f48358a9bf2550f": {
    "first_seen": "2026-10-02T17:23+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "ポケモンカード 30th CELEBRATION カードセット各種",
    "reminded": false,
    "shop": "キデイランド各店"
   },
   "92a6b30152f59bd2": {
    "first_seen": "2026-10-03T22:17+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "ポケモンカード 30th CELEBRATION カードセット各種",
    "reminded": false,
    "shop": "ジョーシン（アプリ）"
   },
   "94a2850638d35df2": {
    "first_seen": "2026-10-03T22:17+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": true,
    "shop": "駿河屋 秋葉原本館1F"
   },
   "96b660ea79e94282": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "DMMマイカ"
   },
   "9b78a3dc7303939b": {
    "first_seen": "2026-10-04T17:19+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "イエローサブマリン"
   },
+  "9eedbf7e86b642ee": {
+   "first_seen": "2026-10-05T14:24+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
+   "product": "ポケモンカード 30th CELEBRATION カードセット各種",
+   "reminded": false,
+   "shop": "竜のしっぽ各店"
+  },
   "a3cb6522299a87db": {
    "first_seen": "2026-10-05T00:17+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "ポケタウン秋葉原"
   },
   "a47aa0b2451c485b": {
    "first_seen": "2026-10-03T22:17+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "ティアワン渋谷店/浜松店"
@@ -311,14 +318,14 @@
   },
   "b60f38786d2ce519": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "ストームエメラルダ",
    "reminded": false,
    "shop": "イオンスタイルオンライン"
   },
   "b6d98d7a63adff1e": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "ポケモンカード MEGAドリームex",
    "reminded": false,
    "shop": "ポケモンセンタートウキョーベイ"
@@ -332,14 +339,14 @@
   },
   "be3ee085cba2bf56": {
    "first_seen": "2026-10-04T17:19+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": true,
    "shop": "CARD WINGS秋葉原駅前店"
   },
   "c1cc76dd0d396e5b": {
    "first_seen": "2026-10-03T22:17+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "ポケモンカード 30th CELEBRATION BOX、ポケモンカード ストームエメラルダ",
    "reminded": false,
    "shop": "オレタン各店"
@@ -360,21 +367,21 @@
   },
   "c737dc8bd7abda33": {
    "first_seen": "2026-10-03T16:58+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "ポケモンカード 30th CELEBRATION カードセット各種",
    "reminded": false,
    "shop": "TCGショップ193各店"
   },
   "c8297657cead14a4": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "ストームエメラルダ",
    "reminded": false,
    "shop": "ポケモンカード"
   },
   "c91584c0be9680ac": {
    "first_seen": "2026-10-04T09:30+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "ポケモンカード 30th CELEBRATION BOX",
    "reminded": true,
    "shop": "駿河屋 アキバ本館1F店"
@@ -388,28 +395,28 @@
   },
   "ccb025f89eccbb82": {
    "first_seen": "2026-10-03T16:58+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "CARDWINGS八王子駅前店"
   },
   "cd5729ddb8034e01": {
    "first_seen": "2026-10-05T00:17+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "ときわ書房ニューコースト新浦安店"
   },
   "cd96c5278f391c19": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "ポケモンカード 30th CELEBRATION BOX、ポケモンカード 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
    "shop": "ポケモンセンターオンライン"
   },
   "ce699e08e1c7bdaa": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "スタートデッキ100",
    "reminded": false,
    "shop": "ブックオフユーカリが丘スカイプラザ"
@@ -430,7 +437,7 @@
   },
   "d22acb486fac6455": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "TSUTAYA北千住"
@@ -451,21 +458,28 @@
   },
   "d96861a8d2b1fbb9": {
    "first_seen": "2026-10-04T17:19+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": true,
    "shop": "CARD WINGS秋葉原駅前店"
   },
+  "d9eaf2bbc4112122": {
+   "first_seen": "2026-10-05T14:24+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
+   "product": "30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "晴れる屋2"
+  },
   "e265a7c8d82b915f": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "ポケモンカード、ワンピースカード、ドラゴンボールフュージョンワールド新弾各種",
    "reminded": false,
    "shop": "ノジマオンライン"
   },
   "e88b73cac4c8b017": {
    "first_seen": "2026-10-02T10:35+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "WonderGoo瑞江店"
@@ -479,7 +493,7 @@
   },
   "ed6265bd80bb2ab3": {
    "first_seen": "2026-10-03T16:58+09:00",
-   "last_seen": "2026-10-05T08:00+09:00",
+   "last_seen": "2026-10-05T14:24+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "TCGshop193"
