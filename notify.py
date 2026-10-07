@@ -305,6 +305,11 @@ def classify(item, config):
         tier, reason = "C", "対象外の商品"
     elif "プロモカード" in item.get("detail", ""):
         tier, reason = "C", "商品の抽選販売ではない"
+    elif demote_note := next(
+        (note for k, note in config.get("demote_keywords", {}).items() if k in text), None
+    ):
+        # 応募条件を満たしていない可能性があるものは、すぐには通知せず朝のまとめに回す
+        tier, reason = "B", f"要確認: {demote_note}"
     elif delivery != "pickup":
         if "招待制" in item.get("method", ""):
             tier, reason = "B", "招待制(抽選ではない)"
@@ -374,7 +379,7 @@ def build_digest_embeds(items):
         lines = []
         for i in group:
             deadline = f" 〆{i['deadline_text']}" if i.get("deadline_text") else ""
-            note = f" ({i['reason']})" if i["delivery"] != "pickup" or "生活圏" in i["reason"] else ""
+            note = f" ({i['reason']})" if i["reason"] != "店舗は要確認" else ""
             lines.append(f"・[{i['shop']}]({i['url']}) {i['product'][:40]}{deadline}{note}")
         # embedの説明文は4096文字までなので、長ければ分ける
         chunk = []

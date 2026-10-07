@@ -36,6 +36,7 @@
 | `areas` | 抽選図鑑のうち対象にする地域ラベル |
 | `places` | 生活圏とみなす地名。店名か説明文に含まれていれば段階B |
 | `other_electronics` | 会員でない家電量販店。店頭受け取りの抽選は段階C |
+| `demote_keywords` | 店名か説明文にキーを含むものは段階Bに下げ、値を「要確認」の理由として表示する |
 | `unwanted_product_keywords` | 商品名にいずれかを含むものは段階C |
 | `product_keywords` | 空でなければ、商品名にいずれかを含む抽選だけ通知する |
 | `exclude_keywords` | 店名・商品名にいずれかを含む抽選を通知しない |

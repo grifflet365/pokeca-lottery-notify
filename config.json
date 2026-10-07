@@ -9,6 +9,10 @@
   ],
   "other_electronics": ["エディオン", "ジョーシン", "コジマ", "ノジマ", "ケーズ", "ソフマップ"],
   "unwanted_product_keywords": ["デッキ", "スターター", "スリーブ", "プレイマット", "ファイル"],
+  "demote_keywords": {
+    "イオンスタイルオンライン": "イオンカード決済が必要",
+    "イオンカード": "イオンカード決済が必要"
+  },
   "product_keywords": [],
   "exclude_keywords": ["サントリー", "BOSS", "シティリーグ", "三洋堂", "お宝創庫", "平和堂"],
   "official_keywords": ["抽選"],
