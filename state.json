@@ -1,5 +1,7 @@
 {
- "broken_sources": [],
+ "broken_sources": [
+  "入荷Now"
+ ],
  "items": {
   "00cdfb5c2ba2c997": {
    "first_seen": "2026-10-01T23:14+09:00",
@@ -315,7 +317,7 @@
   },
   "575baaaf4c10f7dd": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-16T06:16+09:00",
+   "last_seen": "2026-10-16T09:17+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "magi池袋店",
@@ -491,7 +493,7 @@
   },
   "7e9c374671edf83f": {
    "first_seen": "2026-10-14T22:36+09:00",
-   "last_seen": "2026-10-16T06:16+09:00",
+   "last_seen": "2026-10-16T09:17+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -517,7 +519,7 @@
   },
   "86046b7c1a059c4d": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-16T06:16+09:00",
+   "last_seen": "2026-10-16T09:17+09:00",
    "product": "ポケモンセンターオンラインでの商品の抽選受け付けについて (外部リンク)",
    "reminded": false,
    "shop": "ポケモンカード公式のお知らせ",
@@ -808,7 +810,7 @@
   },
   "c8297657cead14a4": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-16T06:16+09:00",
+   "last_seen": "2026-10-16T09:17+09:00",
    "product": "ストームエメラルダ",
    "reminded": false,
    "shop": "ポケモンカード",
@@ -895,7 +897,7 @@
   },
   "d22acb486fac6455": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-16T06:16+09:00",
+   "last_seen": "2026-10-16T09:17+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "TSUTAYA北千住",
@@ -1018,7 +1020,7 @@
   },
   "ea44f2344e22e8bb": {
    "first_seen": "2026-10-05T23:25+09:00",
-   "last_seen": "2026-10-16T06:16+09:00",
+   "last_seen": "2026-10-16T09:17+09:00",
    "notified": false,
    "product": "プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
@@ -1125,5 +1127,5 @@
    "shop": "トレカキャピタル"
   }
  },
- "last_digest": "2026-10-15"
+ "last_digest": "2026-10-16"
 }
