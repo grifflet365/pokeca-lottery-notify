@@ -1,5 +1,7 @@
 {
- "broken_sources": [],
+ "broken_sources": [
+  "入荷Now"
+ ],
  "items": {
   "00cdfb5c2ba2c997": {
    "first_seen": "2026-10-01T23:14+09:00",
@@ -23,6 +25,15 @@
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "ブックオフユーカリが丘スカイプラザ",
+   "tier": "C"
+  },
+  "05eac31301e717d4": {
+   "first_seen": "2026-10-20T04:47+09:00",
+   "last_seen": "2026-10-20T04:47+09:00",
+   "notified": false,
+   "product": "30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "キデイランド 吉祥寺店",
    "tier": "C"
   },
   "075263cad55e2d27": {
@@ -150,6 +161,15 @@
    "reminded": false,
    "shop": "シーガル各店",
    "tier": "B"
+  },
+  "22eedd5f4fecc205": {
+   "first_seen": "2026-10-20T04:47+09:00",
+   "last_seen": "2026-10-20T04:47+09:00",
+   "notified": false,
+   "product": "30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "カードラボAKIHABARAゲーマーズB1店",
+   "tier": "C"
   },
   "22f77d0804a7314a": {
    "first_seen": "2026-10-09T09:15+09:00",
@@ -409,7 +429,7 @@
   },
   "651e9ab85404616a": {
    "first_seen": "2026-10-19T13:28+09:00",
-   "last_seen": "2026-10-19T21:56+09:00",
+   "last_seen": "2026-10-20T04:47+09:00",
    "notified": false,
    "product": "ストームエメラルダ",
    "reminded": false,
@@ -518,6 +538,15 @@
    "shop": "ドラゴンスター各店",
    "tier": "B"
   },
+  "78ba27e349370892": {
+   "first_seen": "2026-10-20T04:47+09:00",
+   "last_seen": "2026-10-20T04:47+09:00",
+   "notified": false,
+   "product": "30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "CARD WINGS秋葉原駅前店",
+   "tier": "B"
+  },
   "7a0b22dd6d2a8d33": {
    "first_seen": "2026-10-01T23:14+09:00",
    "last_seen": "2026-10-05T00:17+09:00",
@@ -536,10 +565,10 @@
   },
   "7e9c374671edf83f": {
    "first_seen": "2026-10-14T22:36+09:00",
-   "last_seen": "2026-10-19T21:56+09:00",
+   "last_seen": "2026-10-20T04:47+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
-   "reminded": false,
+   "reminded": true,
    "shop": "トレカプラザ55通販店",
    "tier": "A"
   },
@@ -549,6 +578,15 @@
    "product": "バトルマスターデッキ パオジアンex",
    "reminded": false,
    "shop": "ガンギ(GANGI)",
+   "tier": "C"
+  },
+  "8325f87f387ce586": {
+   "first_seen": "2026-10-20T04:47+09:00",
+   "last_seen": "2026-10-20T04:47+09:00",
+   "notified": false,
+   "product": "30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "TSUTAYA北千住",
    "tier": "C"
   },
   "83f7cc10affd2935": {
@@ -562,7 +600,7 @@
   },
   "86046b7c1a059c4d": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-19T21:56+09:00",
+   "last_seen": "2026-10-20T04:47+09:00",
    "product": "ポケモンセンターオンラインでの商品の抽選受け付けについて (外部リンク)",
    "reminded": false,
    "shop": "ポケモンカード公式のお知らせ",
@@ -862,7 +900,7 @@
   },
   "c8297657cead14a4": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-19T21:56+09:00",
+   "last_seen": "2026-10-20T04:47+09:00",
    "product": "ストームエメラルダ",
    "reminded": false,
    "shop": "ポケモンカード",
@@ -949,7 +987,7 @@
   },
   "d22acb486fac6455": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-19T21:56+09:00",
+   "last_seen": "2026-10-20T04:47+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "TSUTAYA北千住",
@@ -1088,6 +1126,15 @@
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "WonderGoo瑞江店",
+   "tier": "C"
+  },
+  "e8c922b91b615100": {
+   "first_seen": "2026-10-20T04:47+09:00",
+   "last_seen": "2026-10-20T04:47+09:00",
+   "notified": false,
+   "product": "ストームエメラルダ",
+   "reminded": false,
+   "shop": "キデイランド 吉祥寺店",
    "tier": "C"
   },
   "e9c557b022923742": {
