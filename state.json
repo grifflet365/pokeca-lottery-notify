@@ -36,7 +36,7 @@
   },
   "075263cad55e2d27": {
    "first_seen": "2026-10-05T00:17+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "product": "ポケモンカード 30th CELEBRATION BOX、ONE PIECEカードゲーム ブースターパック 世界最強の戦士【OP-17】",
    "reminded": false,
    "shop": "ノジマオンライン",
@@ -162,7 +162,7 @@
   },
   "20d327a4e5da578b": {
    "first_seen": "2026-10-23T16:21+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "notified": true,
    "product": "ポケモンカード ハドウシーカー",
    "reminded": false,
@@ -280,7 +280,7 @@
   },
   "332634ff2b1698c8": {
    "first_seen": "2026-10-21T06:32+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "notified": false,
    "product": "インフェルノX",
    "reminded": false,
@@ -289,7 +289,7 @@
   },
   "332fb23cb5aa1c96": {
    "first_seen": "2026-10-21T01:49+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -405,7 +405,7 @@
   },
   "57552c3542338d3d": {
    "first_seen": "2026-10-22T03:33+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -422,7 +422,7 @@
   },
   "57619f5718467284": {
    "first_seen": "2026-10-23T16:21+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "notified": true,
    "product": "ストームエメラルダ",
    "reminded": false,
@@ -431,7 +431,7 @@
   },
   "5a5fe5dabf7a92b7": {
    "first_seen": "2026-10-24T03:14+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "notified": false,
    "product": "スターターセット テラスタイプ ステラ ソウブレイズex",
    "reminded": false,
@@ -468,6 +468,15 @@
    "product": "ポケモンカードゲーム MEGA スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
    "shop": "ポケモンセンターオンライン",
+   "tier": "C"
+  },
+  "6178224159a38019": {
+   "first_seen": "2026-10-24T13:25+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
+   "notified": false,
+   "product": "ポケモンカード スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
+   "reminded": false,
+   "shop": "イオン九州",
    "tier": "C"
   },
   "63dcbb35cb872ac9": {
@@ -610,7 +619,7 @@
   },
   "758a80776abf5123": {
    "first_seen": "2026-10-21T22:41+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "notified": false,
    "product": "プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
@@ -688,7 +697,7 @@
   },
   "86046b7c1a059c4d": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "product": "ポケモンセンターオンラインでの商品の抽選受け付けについて (外部リンク)",
    "reminded": false,
    "shop": "ポケモンカード公式のお知らせ",
@@ -805,7 +814,7 @@
   },
   "99e5191722d83d32": {
    "first_seen": "2026-10-21T22:41+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "notified": false,
    "product": "プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
@@ -864,7 +873,7 @@
   },
   "a778f988c7b14554": {
    "first_seen": "2026-10-20T20:24+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "notified": true,
    "product": "ポケモンカード 30th CELEBRATION カードセット各種、ポケモンカード 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー、ポケモンカード アビスアイ、ポケモンカード ニンジャスピナー、ポケモンカード ムニキスゼロ、ポケモンカードMEGA スペシャルカードセット メガエルレイドex、ポケモンカード MEGAドリームex、ポケモンカード スタートデッキ100 バトルコレクション、ポケモンカード スターターセットex各種（イーブイex、ゾロア＆ゾロアークex、ニャオハ＆マスカーニャex）、ポケモンカード メガシンフォニア、ポケモンカード メガブレイブ",
    "reminded": false,
@@ -921,7 +930,7 @@
   },
   "b2aee80b885051c7": {
    "first_seen": "2026-10-21T01:49+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "notified": true,
    "product": "30th CELEBRATION カードセット 初代御三家 ヒトカゲ・ゼニガメ・フシギダネ",
    "reminded": false,
@@ -930,7 +939,7 @@
   },
   "b3656964609251b1": {
    "first_seen": "2026-10-23T16:21+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "notified": true,
    "product": "ピカピカボックス2027",
    "reminded": false,
@@ -1027,7 +1036,7 @@
   },
   "c3d89e59a8a08bc5": {
    "first_seen": "2026-10-24T03:14+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "notified": true,
    "product": "30th CELEBRATION カードセット9種",
    "reminded": false,
@@ -1060,7 +1069,7 @@
   },
   "c8297657cead14a4": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "product": "ストームエメラルダ",
    "reminded": false,
    "shop": "ポケモンカード",
@@ -1108,7 +1117,7 @@
   },
   "cd96c5278f391c19": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "product": "ポケモンカード 30th CELEBRATION BOX、ポケモンカード 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
    "shop": "ポケモンセンターオンライン",
@@ -1142,7 +1151,7 @@
   },
   "d08167fe7d475931": {
    "first_seen": "2026-10-24T03:14+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "notified": false,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -1151,7 +1160,7 @@
   },
   "d166a49c2dc553df": {
    "first_seen": "2026-10-21T16:28+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "notified": false,
    "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -1174,7 +1183,7 @@
   },
   "d22acb486fac6455": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "TSUTAYA北千住",
@@ -1283,7 +1292,7 @@
   },
   "e265a7c8d82b915f": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "product": "ポケモンカード、ワンピースカード、ドラゴンボールフュージョンワールド新弾各種",
    "reminded": false,
    "shop": "ノジマオンライン",
@@ -1375,6 +1384,15 @@
    "shop": "エンターキング南行徳店",
    "tier": "C"
   },
+  "ef48445222840d8f": {
+   "first_seen": "2026-10-24T13:25+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
+   "notified": false,
+   "product": "ポケモンカード ハドウシーカー、ポケモンカード スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
+   "reminded": false,
+   "shop": "おもちゃのペリカン各店",
+   "tier": "B"
+  },
   "f00b98e34cc377d0": {
    "first_seen": "2026-10-10T21:21+09:00",
    "last_seen": "2026-10-13T00:12+09:00",
@@ -1395,7 +1413,7 @@
   },
   "f1db5aae3989cc55": {
    "first_seen": "2026-10-21T22:41+09:00",
-   "last_seen": "2026-10-24T08:03+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
    "notified": false,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -1447,6 +1465,15 @@
    "product": "30th CELEBRATION カードセット9種",
    "reminded": true,
    "shop": "トレカキャピタル"
+  },
+  "fbae7a477f339d70": {
+   "first_seen": "2026-10-24T13:25+09:00",
+   "last_seen": "2026-10-24T13:25+09:00",
+   "notified": false,
+   "product": "ポケモンカード スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー、ポケモンカード ストームエメラルダ",
+   "reminded": false,
+   "shop": "イトーヨーカドー・アリオ（一部店舗）",
+   "tier": "B"
   }
  },
  "last_digest": "2026-10-24"
