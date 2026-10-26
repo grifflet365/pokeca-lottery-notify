@@ -27,7 +27,7 @@
   },
   "04ca9d2c7700b157": {
    "first_seen": "2026-10-25T20:13+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "notified": false,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -45,7 +45,7 @@
   },
   "075263cad55e2d27": {
    "first_seen": "2026-10-05T00:17+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "product": "ポケモンカード 30th CELEBRATION BOX、ONE PIECEカードゲーム ブースターパック 世界最強の戦士【OP-17】",
    "reminded": false,
    "shop": "ノジマオンライン",
@@ -180,7 +180,7 @@
   },
   "20ef07df7c6c67cf": {
    "first_seen": "2026-10-26T13:32+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "notified": false,
    "product": "ポケモンカード ストームエメラルダ、ポケモンカード 30th CELEBRATION カードセット各種",
    "reminded": false,
@@ -274,7 +274,7 @@
   },
   "2abcf40d762e6d65": {
    "first_seen": "2026-10-26T01:01+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "notified": false,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -441,7 +441,7 @@
   },
   "57552c3542338d3d": {
    "first_seen": "2026-10-22T03:33+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -467,7 +467,7 @@
   },
   "5a5fe5dabf7a92b7": {
    "first_seen": "2026-10-24T03:14+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "notified": false,
    "product": "スターターセット テラスタイプ ステラ ソウブレイズex",
    "reminded": false,
@@ -578,7 +578,7 @@
   },
   "670d9b3e434448e4": {
    "first_seen": "2026-10-26T01:01+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "notified": true,
    "product": "ポケモンカード 30th CELEBRATION BOX",
    "reminded": false,
@@ -651,6 +651,15 @@
    "product": "30th CELEBRATION カードセット9種",
    "reminded": false,
    "shop": "CloveBase秋葉原店",
+   "tier": "B"
+  },
+  "72378c9239b8bf90": {
+   "first_seen": "2026-10-26T21:48+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
+   "notified": false,
+   "product": "ポケモンカード 30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "ヤマダデンキ",
    "tier": "B"
   },
   "72c49bb9df989f77": {
@@ -742,11 +751,20 @@
   },
   "86046b7c1a059c4d": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "product": "ポケモンセンターオンラインでの商品の抽選受け付けについて (外部リンク)",
    "reminded": false,
    "shop": "ポケモンカード公式のお知らせ",
    "tier": "A"
+  },
+  "8a3dc0929b56b72a": {
+   "first_seen": "2026-10-26T21:48+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
+   "notified": false,
+   "product": "ポケモンカード ハドウシーカー",
+   "reminded": false,
+   "shop": "ビックカメラ（一部店舗）",
+   "tier": "B"
   },
   "8a550d4729c0bf0c": {
    "first_seen": "2026-10-05T00:17+09:00",
@@ -757,7 +775,7 @@
   },
   "8aae5191453fd680": {
    "first_seen": "2026-10-26T13:32+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "notified": false,
    "product": "ポケモンカード ハドウシーカー",
    "reminded": false,
@@ -775,7 +793,7 @@
   },
   "8bae5cddc41327fa": {
    "first_seen": "2026-10-26T13:32+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "notified": true,
    "product": "拡張パック ハドウシーカー",
    "reminded": false,
@@ -843,7 +861,7 @@
   },
   "934e0e6cff40ba9b": {
    "first_seen": "2026-10-25T13:28+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -858,6 +876,15 @@
    "reminded": false,
    "shop": "フルコンプ八王子本店",
    "tier": "B"
+  },
+  "948ea896da57dd4b": {
+   "first_seen": "2026-10-26T21:48+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
+   "notified": false,
+   "product": "プレミアムデッキセット エーフィ・ブラッキー",
+   "reminded": false,
+   "shop": "TSUTAYA北千住",
+   "tier": "C"
   },
   "94a2850638d35df2": {
    "first_seen": "2026-10-03T22:17+09:00",
@@ -886,7 +913,7 @@
   },
   "99e5191722d83d32": {
    "first_seen": "2026-10-21T22:41+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "notified": false,
    "product": "プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
@@ -1002,7 +1029,7 @@
   },
   "b2aee80b885051c7": {
    "first_seen": "2026-10-21T01:49+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "notified": true,
    "product": "30th CELEBRATION カードセット 初代御三家 ヒトカゲ・ゼニガメ・フシギダネ",
    "reminded": false,
@@ -1011,7 +1038,7 @@
   },
   "b3656964609251b1": {
    "first_seen": "2026-10-23T16:21+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "notified": true,
    "product": "ピカピカボックス2027",
    "reminded": false,
@@ -1108,7 +1135,7 @@
   },
   "c3d89e59a8a08bc5": {
    "first_seen": "2026-10-24T03:14+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "notified": true,
    "product": "30th CELEBRATION カードセット9種",
    "reminded": false,
@@ -1141,7 +1168,7 @@
   },
   "c8297657cead14a4": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "product": "ストームエメラルダ",
    "reminded": false,
    "shop": "ポケモンカード",
@@ -1189,7 +1216,7 @@
   },
   "cd96c5278f391c19": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "product": "ポケモンカード 30th CELEBRATION BOX、ポケモンカード 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
    "shop": "ポケモンセンターオンライン",
@@ -1223,7 +1250,7 @@
   },
   "d08167fe7d475931": {
    "first_seen": "2026-10-24T03:14+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "notified": false,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -1326,6 +1353,24 @@
    "shop": "イオンスタイルオンライン",
    "tier": "C"
   },
+  "db97ff3aaaeb13e1": {
+   "first_seen": "2026-10-26T21:48+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
+   "notified": false,
+   "product": "ポケモンカード ハドウシーカー",
+   "reminded": false,
+   "shop": "Amazon",
+   "tier": "B"
+  },
+  "dba2fc64294a1b1d": {
+   "first_seen": "2026-10-26T21:48+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
+   "notified": false,
+   "product": "30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "野田ホビー ノア店",
+   "tier": "C"
+  },
   "dd29752dc71958e0": {
    "first_seen": "2026-10-09T17:53+09:00",
    "last_seen": "2026-10-09T17:53+09:00",
@@ -1364,7 +1409,7 @@
   },
   "e265a7c8d82b915f": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "product": "ポケモンカード、ワンピースカード、ドラゴンボールフュージョンワールド新弾各種",
    "reminded": false,
    "shop": "ノジマオンライン",
@@ -1458,7 +1503,7 @@
   },
   "ef48445222840d8f": {
    "first_seen": "2026-10-24T13:25+09:00",
-   "last_seen": "2026-10-26T13:32+09:00",
+   "last_seen": "2026-10-26T21:48+09:00",
    "notified": true,
    "product": "ポケモンカード ハドウシーカー、ポケモンカード スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
