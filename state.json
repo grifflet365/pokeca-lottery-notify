@@ -1,5 +1,7 @@
 {
- "broken_sources": [],
+ "broken_sources": [
+  "入荷Now"
+ ],
  "items": {
   "00cdfb5c2ba2c997": {
    "first_seen": "2026-10-01T23:14+09:00",
@@ -119,6 +121,15 @@
    "reminded": true,
    "shop": "晴れる屋2 通販",
    "tier": "A"
+  },
+  "163729652cc6c6f6": {
+   "first_seen": "2026-10-30T14:34+09:00",
+   "last_seen": "2026-10-30T14:34+09:00",
+   "notified": false,
+   "product": "30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "フルコンプ八王子本店",
+   "tier": "B"
   },
   "1639cee9320f3358": {
    "first_seen": "2026-10-14T10:07+09:00",
@@ -274,7 +285,7 @@
   },
   "2abcf40d762e6d65": {
    "first_seen": "2026-10-26T01:01+09:00",
-   "last_seen": "2026-10-30T08:54+09:00",
+   "last_seen": "2026-10-30T14:34+09:00",
    "notified": false,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -334,7 +345,7 @@
   },
   "394c72c47e8cfb43": {
    "first_seen": "2026-10-28T02:53+09:00",
-   "last_seen": "2026-10-30T08:54+09:00",
+   "last_seen": "2026-10-30T14:34+09:00",
    "notified": false,
    "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -357,7 +368,7 @@
   },
   "3fcc0402baf9dcfa": {
    "first_seen": "2026-10-27T04:51+09:00",
-   "last_seen": "2026-10-30T08:54+09:00",
+   "last_seen": "2026-10-30T14:34+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -393,7 +404,7 @@
   },
   "47e0c0a546bd1e6a": {
    "first_seen": "2026-10-28T02:53+09:00",
-   "last_seen": "2026-10-30T08:54+09:00",
+   "last_seen": "2026-10-30T14:34+09:00",
    "notified": true,
    "product": "30th CELEBRATION カードセット",
    "reminded": false,
@@ -603,6 +614,15 @@
    "reminded": true,
    "shop": "ビックカメラ 船橋駅"
   },
+  "666ed678f499ce73": {
+   "first_seen": "2026-10-30T14:34+09:00",
+   "last_seen": "2026-10-30T14:34+09:00",
+   "notified": true,
+   "product": "拡張パック「ハドウシーカー」",
+   "reminded": false,
+   "shop": "あみあみ",
+   "tier": "A"
+  },
   "670d9b3e434448e4": {
    "first_seen": "2026-10-26T01:01+09:00",
    "last_seen": "2026-10-27T21:00+09:00",
@@ -682,7 +702,7 @@
   },
   "713a1d833b9936f6": {
    "first_seen": "2026-10-27T04:51+09:00",
-   "last_seen": "2026-10-30T08:54+09:00",
+   "last_seen": "2026-10-30T14:34+09:00",
    "notified": false,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -796,7 +816,7 @@
   },
   "86046b7c1a059c4d": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-30T08:54+09:00",
+   "last_seen": "2026-10-30T14:34+09:00",
    "product": "ポケモンセンターオンラインでの商品の抽選受け付けについて (外部リンク)",
    "reminded": false,
    "shop": "ポケモンカード公式のお知らせ",
@@ -924,7 +944,7 @@
   },
   "948ea896da57dd4b": {
    "first_seen": "2026-10-26T21:48+09:00",
-   "last_seen": "2026-10-30T08:54+09:00",
+   "last_seen": "2026-10-30T14:34+09:00",
    "notified": false,
    "product": "プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
@@ -1015,6 +1035,15 @@
    "shop": "ティアワン渋谷店/浜松店",
    "tier": "A"
   },
+  "a65d121ed30e26f7": {
+   "first_seen": "2026-10-30T14:34+09:00",
+   "last_seen": "2026-10-30T14:34+09:00",
+   "notified": false,
+   "product": "30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "ポケモンカードラウンジ",
+   "tier": "B"
+  },
   "a778f988c7b14554": {
    "first_seen": "2026-10-20T20:24+09:00",
    "last_seen": "2026-10-25T20:13+09:00",
@@ -1074,7 +1103,7 @@
   },
   "b2aee80b885051c7": {
    "first_seen": "2026-10-21T01:49+09:00",
-   "last_seen": "2026-10-30T08:54+09:00",
+   "last_seen": "2026-10-30T14:34+09:00",
    "notified": true,
    "product": "30th CELEBRATION カードセット 初代御三家 ヒトカゲ・ゼニガメ・フシギダネ",
    "reminded": true,
@@ -1083,7 +1112,7 @@
   },
   "b3656964609251b1": {
    "first_seen": "2026-10-23T16:21+09:00",
-   "last_seen": "2026-10-30T08:54+09:00",
+   "last_seen": "2026-10-30T14:34+09:00",
    "notified": true,
    "product": "ピカピカボックス2027",
    "reminded": false,
@@ -1115,7 +1144,7 @@
   },
   "b701ec51ab027aed": {
    "first_seen": "2026-10-27T21:00+09:00",
-   "last_seen": "2026-10-30T08:54+09:00",
+   "last_seen": "2026-10-30T14:34+09:00",
    "notified": false,
    "product": "プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
@@ -1133,7 +1162,7 @@
   },
   "b742d6ebe490ac14": {
    "first_seen": "2026-10-27T04:51+09:00",
-   "last_seen": "2026-10-30T08:54+09:00",
+   "last_seen": "2026-10-30T14:34+09:00",
    "notified": false,
    "product": "プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
@@ -1198,7 +1227,7 @@
   },
   "c3d89e59a8a08bc5": {
    "first_seen": "2026-10-24T03:14+09:00",
-   "last_seen": "2026-10-30T08:54+09:00",
+   "last_seen": "2026-10-30T14:34+09:00",
    "notified": true,
    "product": "30th CELEBRATION カードセット9種",
    "reminded": false,
@@ -1231,7 +1260,7 @@
   },
   "c8297657cead14a4": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-10-30T08:54+09:00",
+   "last_seen": "2026-10-30T14:34+09:00",
    "product": "ストームエメラルダ",
    "reminded": false,
    "shop": "ポケモンカード",
@@ -1606,6 +1635,15 @@
    "product": "ポケモンカード メガブレイブ、ポケモンカード メガシンフォニア",
    "reminded": false,
    "shop": "しまむらパーク"
+  },
+  "f640ce380145dd3d": {
+   "first_seen": "2026-10-30T14:34+09:00",
+   "last_seen": "2026-10-30T14:34+09:00",
+   "notified": false,
+   "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
+   "reminded": false,
+   "shop": "GEO",
+   "tier": "C"
   },
   "f6e87b03eec3233c": {
    "first_seen": "2026-10-07T17:32+09:00",
