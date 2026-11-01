@@ -1,5 +1,7 @@
 {
- "broken_sources": [],
+ "broken_sources": [
+  "入荷Now"
+ ],
  "items": {
   "00cdfb5c2ba2c997": {
    "first_seen": "2026-10-01T23:14+09:00",
@@ -36,7 +38,7 @@
   },
   "0368660add4b003e": {
    "first_seen": "2026-10-31T04:11+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -89,7 +91,7 @@
   },
   "0d51aea874f5d621": {
    "first_seen": "2026-10-30T21:41+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": true,
    "product": "Made in Japan Pokémon “Red Version” Stratocaster®",
    "reminded": false,
@@ -140,7 +142,7 @@
   },
   "12f74ee015f306ee": {
    "first_seen": "2026-10-31T14:22+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": false,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -158,7 +160,7 @@
   },
   "163729652cc6c6f6": {
    "first_seen": "2026-10-30T14:34+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -319,7 +321,7 @@
   },
   "2abcf40d762e6d65": {
    "first_seen": "2026-10-26T01:01+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": false,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -379,7 +381,7 @@
   },
   "3358079bb213c2a8": {
    "first_seen": "2026-10-31T04:11+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": false,
    "product": "プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
@@ -397,7 +399,7 @@
   },
   "394c72c47e8cfb43": {
    "first_seen": "2026-10-28T02:53+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": false,
    "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -413,7 +415,7 @@
   },
   "3fcc0402baf9dcfa": {
    "first_seen": "2026-10-27T04:51+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -449,7 +451,7 @@
   },
   "47e0c0a546bd1e6a": {
    "first_seen": "2026-10-28T02:53+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": true,
    "product": "30th CELEBRATION カードセット",
    "reminded": false,
@@ -661,7 +663,7 @@
   },
   "666ed678f499ce73": {
    "first_seen": "2026-10-30T14:34+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": true,
    "product": "拡張パック「ハドウシーカー」",
    "reminded": false,
@@ -740,7 +742,7 @@
   },
   "713a1d833b9936f6": {
    "first_seen": "2026-10-27T04:51+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": false,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -854,7 +856,7 @@
   },
   "86046b7c1a059c4d": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "product": "ポケモンセンターオンラインでの商品の抽選受け付けについて (外部リンク)",
    "reminded": false,
    "shop": "ポケモンカード公式のお知らせ",
@@ -991,7 +993,7 @@
   },
   "948ea896da57dd4b": {
    "first_seen": "2026-10-26T21:48+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": false,
    "product": "プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
@@ -1060,7 +1062,7 @@
   },
   "9dae8ee0731648e1": {
    "first_seen": "2026-10-30T21:41+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": true,
    "product": "拡張パック「ハドウシーカー」",
    "reminded": false,
@@ -1102,7 +1104,7 @@
   },
   "a65d121ed30e26f7": {
    "first_seen": "2026-10-30T14:34+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -1177,7 +1179,7 @@
   },
   "b3656964609251b1": {
    "first_seen": "2026-10-23T16:21+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": true,
    "product": "ピカピカボックス2027",
    "reminded": false,
@@ -1202,7 +1204,7 @@
   },
   "b701ec51ab027aed": {
    "first_seen": "2026-10-27T21:00+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": false,
    "product": "プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
@@ -1220,7 +1222,7 @@
   },
   "b742d6ebe490ac14": {
    "first_seen": "2026-10-27T04:51+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": false,
    "product": "プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
@@ -1285,7 +1287,7 @@
   },
   "c3d89e59a8a08bc5": {
    "first_seen": "2026-10-24T03:14+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": true,
    "product": "30th CELEBRATION カードセット9種",
    "reminded": false,
@@ -1357,6 +1359,15 @@
    "reminded": true,
    "shop": "ビックカメラ 池袋本店"
   },
+  "cadba5a7f4f00d51": {
+   "first_seen": "2026-11-01T14:49+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
+   "notified": false,
+   "product": "30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "トレカショップなかよし",
+   "tier": "C"
+  },
   "ccb025f89eccbb82": {
    "first_seen": "2026-10-03T16:58+09:00",
    "last_seen": "2026-10-07T00:01+09:00",
@@ -1418,7 +1429,7 @@
   },
   "d1242f7f3922772c": {
    "first_seen": "2026-10-30T21:41+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -1707,7 +1718,7 @@
   },
   "f640ce380145dd3d": {
    "first_seen": "2026-10-30T14:34+09:00",
-   "last_seen": "2026-11-01T08:17+09:00",
+   "last_seen": "2026-11-01T14:49+09:00",
    "notified": false,
    "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
