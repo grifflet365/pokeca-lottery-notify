@@ -19,7 +19,7 @@
   },
   "01a4c9cf55e3d4e6": {
    "first_seen": "2026-11-06T02:57+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "ポケモンカード 30th CELEBRATION BOX",
    "reminded": false,
@@ -28,7 +28,7 @@
   },
   "02c506c55cb695c5": {
    "first_seen": "2026-10-31T14:22+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "ポケモンカード ハドウシーカー",
    "reminded": false,
@@ -72,7 +72,7 @@
   },
   "075263cad55e2d27": {
    "first_seen": "2026-10-05T00:17+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "product": "ポケモンカード 30th CELEBRATION BOX、ONE PIECEカードゲーム ブースターパック 世界最強の戦士【OP-17】",
    "reminded": false,
    "shop": "ノジマオンライン",
@@ -80,7 +80,7 @@
   },
   "0ae2cf945fc7878f": {
    "first_seen": "2026-11-04T01:06+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "ポケモンカード ハドウシーカー",
    "reminded": false,
@@ -116,7 +116,7 @@
   },
   "0d51aea874f5d621": {
    "first_seen": "2026-10-30T21:41+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "Made in Japan Pokémon “Red Version” Stratocaster®",
    "reminded": false,
@@ -133,7 +133,7 @@
   },
   "0ee04e34ede944f8": {
    "first_seen": "2026-11-06T08:33+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": false,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -169,7 +169,7 @@
   },
   "11f7bea6a0257dad": {
    "first_seen": "2026-11-03T00:35+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": false,
    "product": "ポケモンカード スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -178,7 +178,7 @@
   },
   "1284de8ead4c58d4": {
    "first_seen": "2026-11-05T09:51+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": false,
    "product": "ポケモンカード スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -248,9 +248,18 @@
    "shop": "キデイランド",
    "tier": "C"
   },
+  "19caa58b0e6e54fc": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": true,
+   "product": "2026年度ジャッジ資格試験 受験応募",
+   "reminded": false,
+   "shop": "ポケモンカード",
+   "tier": "A"
+  },
   "1a4a5e794f843431": {
    "first_seen": "2026-11-06T02:57+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "ポケモンカード ダイゴのダンバル&メタグロスex",
    "reminded": false,
@@ -259,7 +268,7 @@
   },
   "1cb1caa236cf8f87": {
    "first_seen": "2026-11-04T06:43+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": false,
    "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -268,7 +277,7 @@
   },
   "1e966f664e1d39e4": {
    "first_seen": "2026-11-04T21:00+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": false,
    "product": "ポケモンカード スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -277,7 +286,7 @@
   },
   "1f66025e43670d62": {
    "first_seen": "2026-11-06T02:57+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "ポケモンカード 30th CELEBRATION BOX、ポケモンカード ストームエメラルダ",
    "reminded": false,
@@ -358,7 +367,7 @@
   },
   "2796344eb4cb9f3f": {
    "first_seen": "2026-11-06T02:57+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -375,7 +384,7 @@
   },
   "29b134df6c351b60": {
    "first_seen": "2026-11-03T08:25+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": false,
    "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -384,7 +393,7 @@
   },
   "2a04a38fd068e268": {
    "first_seen": "2026-11-04T21:00+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "ポケモンカード 30th CELEBRATION BOX",
    "reminded": false,
@@ -474,7 +483,7 @@
   },
   "3fcc0402baf9dcfa": {
    "first_seen": "2026-10-27T04:51+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -483,7 +492,7 @@
   },
   "406b1e485462a52f": {
    "first_seen": "2026-11-05T18:22+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "ポケモンカード ハドウシーカー",
    "reminded": false,
@@ -510,7 +519,7 @@
   },
   "46af0e45430c33e1": {
    "first_seen": "2026-11-04T01:06+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -552,6 +561,15 @@
    "shop": "カードラボ秋葉原ラジオ会館本店",
    "tier": "B"
   },
+  "4a1a7e2f6e8cc05c": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": false,
+   "product": "30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "GEO",
+   "tier": "B"
+  },
   "4b6ed6d6742f5b73": {
    "first_seen": "2026-10-11T03:28+09:00",
    "last_seen": "2026-10-11T21:38+09:00",
@@ -578,6 +596,15 @@
    "reminded": true,
    "shop": "ガンギ HOBBYSHOP",
    "tier": "A"
+  },
+  "54c4be2cadaa1ce1": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": false,
+   "product": "ポケモンカード スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
+   "reminded": false,
+   "shop": "ゲームアーク / 宝島各店",
+   "tier": "C"
   },
   "551b485a00ee3376": {
    "first_seen": "2026-11-03T00:35+09:00",
@@ -633,7 +660,7 @@
   },
   "5a5da546be6e61c8": {
    "first_seen": "2026-11-04T21:00+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "ポケモンカード ハドウシーカー",
    "reminded": false,
@@ -660,7 +687,7 @@
   },
   "5b9e567f722e5732": {
    "first_seen": "2026-11-04T06:43+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -687,7 +714,7 @@
   },
   "625dda11d12f3281": {
    "first_seen": "2026-11-04T06:43+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": false,
    "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -696,7 +723,7 @@
   },
   "6352d213b07e71e7": {
    "first_seen": "2026-11-05T04:40+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -768,7 +795,7 @@
   },
   "6672c18e76fd0be7": {
    "first_seen": "2026-11-05T18:22+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": false,
    "product": "ポケモンカード スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -795,7 +822,7 @@
   },
   "67dd65fb097c22db": {
    "first_seen": "2026-11-04T21:00+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "ポケモンカード ハドウシーカー",
    "reminded": false,
@@ -883,7 +910,7 @@
   },
   "735b8725122bff88": {
    "first_seen": "2026-11-06T02:57+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": false,
    "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -901,7 +928,7 @@
   },
   "7788caf777859ba1": {
    "first_seen": "2026-11-04T21:00+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": false,
    "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -928,12 +955,30 @@
   },
   "7d0983f738d757f9": {
    "first_seen": "2026-11-06T02:57+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "ハドウシーカー",
    "reminded": false,
    "shop": "カードラボ千葉中央店",
    "tier": "B"
+  },
+  "7d138c0d433b78b5": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": false,
+   "product": "ストームエメラルダ",
+   "reminded": false,
+   "shop": "竜星のPAO",
+   "tier": "B"
+  },
+  "7e58c34f92f52426": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": true,
+   "product": "30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "竜星のPAO",
+   "tier": "A"
   },
   "7e73c32df62be0b5": {
    "first_seen": "2026-10-06T07:32+09:00",
@@ -990,7 +1035,7 @@
   },
   "86046b7c1a059c4d": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "product": "ポケモンセンターオンラインでの商品の抽選受け付けについて (外部リンク)",
    "reminded": false,
    "shop": "ポケモンカード公式のお知らせ",
@@ -998,7 +1043,7 @@
   },
   "87de2696754e4746": {
    "first_seen": "2026-11-04T21:00+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "ポケモンカード 30th CELEBRATION BOX",
    "reminded": false,
@@ -1068,6 +1113,15 @@
    "shop": "magi",
    "tier": "A"
   },
+  "8ff68e585f70731e": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": true,
+   "product": "2026年度イベントオーガナイザー資格試験 受験応募",
+   "reminded": false,
+   "shop": "ポケモンカード",
+   "tier": "A"
+  },
   "903485b7f61c2bb1": {
    "first_seen": "2026-10-18T02:01+09:00",
    "last_seen": "2026-10-20T20:24+09:00",
@@ -1123,7 +1177,7 @@
   },
   "93aefdc69508a362": {
    "first_seen": "2026-11-04T01:06+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": false,
    "product": "ポケモンカード スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -1132,7 +1186,7 @@
   },
   "948ea896da57dd4b": {
    "first_seen": "2026-10-26T21:48+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": false,
    "product": "プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
@@ -1185,7 +1239,7 @@
   },
   "9bd9013316e48469": {
    "first_seen": "2026-10-30T21:41+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": false,
    "product": "ポケモンカード スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -1203,7 +1257,7 @@
   },
   "9dae8ee0731648e1": {
    "first_seen": "2026-10-30T21:41+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "拡張パック「ハドウシーカー」",
    "reminded": false,
@@ -1212,7 +1266,7 @@
   },
   "9e5f0260353db365": {
    "first_seen": "2026-11-04T06:43+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": false,
    "product": "30th CELEBRATION カードセット9種",
    "reminded": false,
@@ -1236,6 +1290,24 @@
    "shop": "カードラボ津田沼店",
    "tier": "B"
   },
+  "a0ec89aa53ee168b": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": true,
+   "product": "30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "エディオン",
+   "tier": "A"
+  },
+  "a1311d7a0f5c4d0f": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": false,
+   "product": "ハドウシーカー",
+   "reminded": false,
+   "shop": "GEO",
+   "tier": "B"
+  },
   "a3cb6522299a87db": {
    "first_seen": "2026-10-05T00:17+09:00",
    "last_seen": "2026-10-11T21:38+09:00",
@@ -1246,7 +1318,7 @@
   },
   "a4533c445e0dd588": {
    "first_seen": "2026-11-06T08:33+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": false,
    "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -1279,9 +1351,18 @@
    "shop": "しまむらパーク",
    "tier": "A"
   },
+  "a7e3e38c29481435": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": false,
+   "product": "ポケモンカード 30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "キデイランド 浦和美園店",
+   "tier": "B"
+  },
   "a8173a52106050ea": {
    "first_seen": "2026-11-05T09:51+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "ポケモンカード 30th CELEBRATION BOX、ポケモンカード ストームエメラルダ",
    "reminded": false,
@@ -1290,7 +1371,7 @@
   },
   "a83bf4d40aa4ec9a": {
    "first_seen": "2026-11-04T11:09+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "拡張パック「ハドウシーカー」",
    "reminded": false,
@@ -1308,7 +1389,7 @@
   },
   "aa3541919f72f0e3": {
    "first_seen": "2026-11-06T02:57+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": false,
    "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -1344,7 +1425,7 @@
   },
   "ae8102efa5acb327": {
    "first_seen": "2026-11-03T00:35+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "ポケモンカード 30th CELEBRATION BOX、ポケモンカード スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -1412,6 +1493,24 @@
    "shop": "ブックオフ ユーカリが丘",
    "tier": "C"
   },
+  "b83f6d9692e50f00": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": false,
+   "product": "ポケモンカード ハドウシーカー、ポケモンカード 30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "ゲオ",
+   "tier": "B"
+  },
+  "b8c597bb8456c6ca": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": true,
+   "product": "ハドウシーカー",
+   "reminded": false,
+   "shop": "竜星のPAO",
+   "tier": "A"
+  },
   "b90a17fbbdba4029": {
    "first_seen": "2026-11-03T00:35+09:00",
    "last_seen": "2026-11-03T15:32+09:00",
@@ -1439,6 +1538,15 @@
    "shop": "シーガル各店",
    "tier": "B"
   },
+  "bbd9f683b2b3d4df": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": false,
+   "product": "ポケモンカード スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
+   "reminded": false,
+   "shop": "フルコンプ 一部店舗",
+   "tier": "C"
+  },
   "c115f83c573a225b": {
    "first_seen": "2026-10-22T20:39+09:00",
    "last_seen": "2026-10-24T08:03+09:00",
@@ -1456,6 +1564,15 @@
    "shop": "オレタン各店",
    "tier": "B"
   },
+  "c23b80572cb2594b": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": false,
+   "product": "拡張パック「ハドウシーカー」",
+   "reminded": false,
+   "shop": "ポケモンカードラウンジ",
+   "tier": "B"
+  },
   "c34342c6346d8bd6": {
    "first_seen": "2026-10-05T23:25+09:00",
    "last_seen": "2026-10-11T21:38+09:00",
@@ -1467,7 +1584,7 @@
   },
   "c3d89e59a8a08bc5": {
    "first_seen": "2026-10-24T03:14+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "30th CELEBRATION カードセット9種",
    "reminded": false,
@@ -1485,7 +1602,7 @@
   },
   "c5663594a335ddd3": {
    "first_seen": "2026-11-06T02:57+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "拡張パック「ハドウシーカー」",
    "reminded": false,
@@ -1502,7 +1619,7 @@
   },
   "c8038f5568dfd235": {
    "first_seen": "2026-10-30T21:41+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "ポケモンカード ハドウシーカー",
    "reminded": false,
@@ -1545,7 +1662,7 @@
   },
   "cd96c5278f391c19": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "product": "ポケモンカード 30th CELEBRATION BOX、ポケモンカード 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
    "shop": "ポケモンセンターオンライン",
@@ -1588,7 +1705,7 @@
   },
   "d1242f7f3922772c": {
    "first_seen": "2026-10-30T21:41+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": true,
@@ -1612,6 +1729,24 @@
    "shop": "TSUTAYA北千住",
    "tier": "C"
   },
+  "d2ee27eeb8279fe7": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": false,
+   "product": "ポケモンカード 30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "キデイランド二子玉川店、吉祥寺店",
+   "tier": "B"
+  },
+  "d30acb353826013c": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": false,
+   "product": "ポケモンカード スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
+   "reminded": false,
+   "shop": "ヤマシロヤ（上野）",
+   "tier": "C"
+  },
   "d499a09012852978": {
    "first_seen": "2026-10-10T01:57+09:00",
    "last_seen": "2026-10-14T06:10+09:00",
@@ -1621,9 +1756,18 @@
    "shop": "楽天ブックス",
    "tier": "A"
   },
+  "d49e9a1b8dcece5f": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": false,
+   "product": "30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "トレカキャピタル",
+   "tier": "B"
+  },
   "d7621428244fea2d": {
    "first_seen": "2026-11-06T02:57+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": false,
    "product": "ポケモンカード スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -1667,7 +1811,7 @@
   },
   "db97ff3aaaeb13e1": {
    "first_seen": "2026-10-26T21:48+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "ポケモンカード ハドウシーカー",
    "reminded": false,
@@ -1683,6 +1827,15 @@
    "shop": "野田ホビー ノア店",
    "tier": "C"
   },
+  "dc2c474af0272804": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": true,
+   "product": "ポケモンカード ハドウシーカー",
+   "reminded": false,
+   "shop": "ヨドバシ・ドット・コム",
+   "tier": "A"
+  },
   "dd29752dc71958e0": {
    "first_seen": "2026-10-09T17:53+09:00",
    "last_seen": "2026-10-09T17:53+09:00",
@@ -1694,7 +1847,7 @@
   },
   "dd2b69ba623efb3c": {
    "first_seen": "2026-11-05T18:22+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "拡張パック ハドウシーカー",
    "reminded": false,
@@ -1708,6 +1861,15 @@
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "竜星のPAO",
+   "tier": "B"
+  },
+  "e05be0322de28288": {
+   "first_seen": "2026-11-06T15:24+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
+   "notified": false,
+   "product": "ポケモンカード ハドウシーカー",
+   "reminded": false,
+   "shop": "キッズリパブリック（アプリ）",
    "tier": "B"
   },
   "e069726788ddd471": {
@@ -1730,7 +1892,7 @@
   },
   "e265a7c8d82b915f": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "product": "ポケモンカード、ワンピースカード、ドラゴンボールフュージョンワールド新弾各種",
    "reminded": false,
    "shop": "ノジマオンライン",
@@ -1765,7 +1927,7 @@
   },
   "e59ed499d868a08d": {
    "first_seen": "2026-11-03T15:32+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -1845,7 +2007,7 @@
   },
   "eef6eb72eb774c46": {
    "first_seen": "2026-11-03T08:25+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -1908,7 +2070,7 @@
   },
   "f9c41574e5d14ca1": {
    "first_seen": "2026-11-05T04:40+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": true,
@@ -1926,7 +2088,7 @@
   },
   "fa06bde3c01f0292": {
    "first_seen": "2026-11-05T04:40+09:00",
-   "last_seen": "2026-11-06T08:33+09:00",
+   "last_seen": "2026-11-06T15:24+09:00",
    "notified": true,
    "product": "拡張パック「ハドウシーカー」",
    "reminded": false,
