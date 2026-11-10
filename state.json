@@ -1,5 +1,7 @@
 {
- "broken_sources": [],
+ "broken_sources": [
+  "入荷Now"
+ ],
  "items": {
   "01a4c9cf55e3d4e6": {
    "first_seen": "2026-11-06T02:57+09:00",
@@ -48,7 +50,7 @@
   },
   "06438d8007253afe": {
    "first_seen": "2026-11-10T13:03+09:00",
-   "last_seen": "2026-11-10T13:03+09:00",
+   "last_seen": "2026-11-10T21:29+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -101,7 +103,7 @@
   },
   "0d51aea874f5d621": {
    "first_seen": "2026-10-30T21:41+09:00",
-   "last_seen": "2026-11-10T13:03+09:00",
+   "last_seen": "2026-11-10T21:29+09:00",
    "notified": true,
    "product": "Made in Japan Pokémon “Red Version” Stratocaster®",
    "reminded": false,
@@ -118,7 +120,7 @@
   },
   "0ee04e34ede944f8": {
    "first_seen": "2026-11-06T08:33+09:00",
-   "last_seen": "2026-11-10T13:03+09:00",
+   "last_seen": "2026-11-10T21:29+09:00",
    "notified": false,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -217,7 +219,7 @@
   },
   "19caa58b0e6e54fc": {
    "first_seen": "2026-11-06T15:24+09:00",
-   "last_seen": "2026-11-10T13:03+09:00",
+   "last_seen": "2026-11-10T21:29+09:00",
    "notified": true,
    "product": "2026年度ジャッジ資格試験 受験応募",
    "reminded": false,
@@ -262,7 +264,7 @@
   },
   "2008e5ccb09ee3d9": {
    "first_seen": "2026-11-10T05:38+09:00",
-   "last_seen": "2026-11-10T13:03+09:00",
+   "last_seen": "2026-11-10T21:29+09:00",
    "notified": false,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -351,7 +353,7 @@
   },
   "29b134df6c351b60": {
    "first_seen": "2026-11-03T08:25+09:00",
-   "last_seen": "2026-11-10T13:03+09:00",
+   "last_seen": "2026-11-10T21:29+09:00",
    "notified": false,
    "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
    "reminded": false,
@@ -441,7 +443,7 @@
   },
   "3fcc0402baf9dcfa": {
    "first_seen": "2026-10-27T04:51+09:00",
-   "last_seen": "2026-11-10T13:03+09:00",
+   "last_seen": "2026-11-10T21:29+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -468,12 +470,21 @@
   },
   "4336083f93c5d3c3": {
    "first_seen": "2026-11-07T17:39+09:00",
-   "last_seen": "2026-11-10T13:03+09:00",
+   "last_seen": "2026-11-10T21:29+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
    "shop": "DMMマイカ",
    "tier": "A"
+  },
+  "43e9c67398ac1d71": {
+   "first_seen": "2026-11-10T21:29+09:00",
+   "last_seen": "2026-11-10T21:29+09:00",
+   "notified": false,
+   "product": "30th CELEBRATION BOX",
+   "reminded": false,
+   "shop": "TSUTAYA北千住",
+   "tier": "C"
   },
   "446e227b0ba87a29": {
    "first_seen": "2026-11-07T00:51+09:00",
@@ -548,7 +559,7 @@
   },
   "4a1a7e2f6e8cc05c": {
    "first_seen": "2026-11-06T15:24+09:00",
-   "last_seen": "2026-11-10T13:03+09:00",
+   "last_seen": "2026-11-10T21:29+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -859,15 +870,6 @@
    "shop": "カードラボAKIHABARAゲーマーズB1",
    "tier": "C"
   },
-  "7024db9ec9ff9b84": {
-   "first_seen": "2026-10-08T02:23+09:00",
-   "last_seen": "2026-10-11T14:35+09:00",
-   "notified": true,
-   "product": "30th CELEBRATION カードセット9種",
-   "reminded": false,
-   "shop": "CloveBase秋葉原店",
-   "tier": "B"
-  },
   "713a1d833b9936f6": {
    "first_seen": "2026-10-27T04:51+09:00",
    "last_seen": "2026-11-03T00:35+09:00",
@@ -1005,7 +1007,7 @@
   },
   "86046b7c1a059c4d": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-11-10T13:03+09:00",
+   "last_seen": "2026-11-10T21:29+09:00",
    "product": "ポケモンセンターオンラインでの商品の抽選受け付けについて (外部リンク)",
    "reminded": false,
    "shop": "ポケモンカード公式のお知らせ",
@@ -1094,7 +1096,7 @@
   },
   "8ff68e585f70731e": {
    "first_seen": "2026-11-06T15:24+09:00",
-   "last_seen": "2026-11-10T13:03+09:00",
+   "last_seen": "2026-11-10T21:29+09:00",
    "notified": true,
    "product": "2026年度イベントオーガナイザー資格試験 受験応募",
    "reminded": false,
@@ -1255,7 +1257,7 @@
   },
   "a1311d7a0f5c4d0f": {
    "first_seen": "2026-11-06T15:24+09:00",
-   "last_seen": "2026-11-10T13:03+09:00",
+   "last_seen": "2026-11-10T21:29+09:00",
    "notified": true,
    "product": "ハドウシーカー",
    "reminded": false,
@@ -1549,7 +1551,7 @@
   },
   "c3d89e59a8a08bc5": {
    "first_seen": "2026-10-24T03:14+09:00",
-   "last_seen": "2026-11-10T13:03+09:00",
+   "last_seen": "2026-11-10T21:29+09:00",
    "notified": true,
    "product": "30th CELEBRATION カードセット9種",
    "reminded": false,
@@ -1567,7 +1569,7 @@
   },
   "c5663594a335ddd3": {
    "first_seen": "2026-11-06T02:57+09:00",
-   "last_seen": "2026-11-10T13:03+09:00",
+   "last_seen": "2026-11-10T21:29+09:00",
    "notified": true,
    "product": "拡張パック「ハドウシーカー」",
    "reminded": false,
@@ -1743,7 +1745,7 @@
   },
   "d7a5f7d1a1b4d70c": {
    "first_seen": "2026-11-10T05:38+09:00",
-   "last_seen": "2026-11-10T13:03+09:00",
+   "last_seen": "2026-11-10T21:29+09:00",
    "notified": false,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -1814,7 +1816,7 @@
   },
   "dd2b69ba623efb3c": {
    "first_seen": "2026-11-05T18:22+09:00",
-   "last_seen": "2026-11-10T13:03+09:00",
+   "last_seen": "2026-11-10T21:29+09:00",
    "notified": true,
    "product": "拡張パック ハドウシーカー",
    "reminded": false,
