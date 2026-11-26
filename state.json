@@ -57,7 +57,7 @@
   },
   "075263cad55e2d27": {
    "first_seen": "2026-10-05T00:17+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "product": "ポケモンカード 30th CELEBRATION BOX、ONE PIECEカードゲーム ブースターパック 世界最強の戦士【OP-17】",
    "reminded": false,
    "shop": "ノジマオンライン",
@@ -227,7 +227,7 @@
   },
   "1c9b69acb52afb81": {
    "first_seen": "2026-11-26T09:11+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": true,
    "product": "ポケモンカード スターターセットex各種（イーブイex、ゾロア＆ゾロアークex、ニャオハ＆マスカーニャex）",
    "reminded": false,
@@ -389,7 +389,7 @@
   },
   "376d8ab6040860d4": {
    "first_seen": "2026-11-23T16:21+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": true,
    "product": "ポケモンカード 30th CELEBRATION カードセット各種",
    "reminded": false,
@@ -452,7 +452,7 @@
   },
   "43b81c2c339cc28c": {
    "first_seen": "2026-11-13T18:25+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": true,
    "product": "「Pokémon Team Masters」の抽選結果発表の延期および参加規約同意期間について",
    "reminded": false,
@@ -549,6 +549,15 @@
    "shop": "ドラゴンスター通販",
    "tier": "A"
   },
+  "4d781ed0628d48a1": {
+   "first_seen": "2026-11-26T19:44+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
+   "notified": true,
+   "product": "ポケモンカード 30th CELEBRATION BOX、ポケモンカード 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー、ポケモンカード スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー、ポケモンカード ストームエメラルダ、ポケモンカード アビスアイ、ポケモンカード メガブレイブ、ポケモンカード メガシンフォニア",
+   "reminded": false,
+   "shop": "ホビーサーチ",
+   "tier": "A"
+  },
   "50d14c722a56b7ad": {
    "first_seen": "2026-11-24T13:42+09:00",
    "last_seen": "2026-11-25T23:09+09:00",
@@ -614,7 +623,7 @@
   },
   "5897b12069ada5f0": {
    "first_seen": "2026-11-21T21:29+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": false,
    "product": "ポケモンカード ハドウシーカー",
    "reminded": false,
@@ -659,7 +668,7 @@
   },
   "5e992ce27329c59e": {
    "first_seen": "2026-11-25T23:09+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": true,
    "product": "ポケモンカード ハドウシーカー",
    "reminded": false,
@@ -902,7 +911,7 @@
   },
   "8356d7cabc583786": {
    "first_seen": "2026-11-25T23:09+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": false,
    "product": "ポケモンカード 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
@@ -920,7 +929,7 @@
   },
   "86046b7c1a059c4d": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "product": "ポケモンセンターオンラインでの商品の抽選受け付けについて (外部リンク)",
    "reminded": false,
    "shop": "ポケモンカード公式のお知らせ",
@@ -937,7 +946,7 @@
   },
   "87de2696754e4746": {
    "first_seen": "2026-11-04T21:00+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": true,
    "product": "ポケモンカード 30th CELEBRATION BOX",
    "reminded": false,
@@ -1099,7 +1108,7 @@
   },
   "970b588e900ca706": {
    "first_seen": "2026-11-25T23:09+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": true,
    "product": "ポケモンカード福袋",
    "reminded": false,
@@ -1171,7 +1180,7 @@
   },
   "9f92789078dbeba1": {
    "first_seen": "2026-11-24T05:04+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -1207,7 +1216,7 @@
   },
   "a31a6a5570619084": {
    "first_seen": "2026-11-24T13:42+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": true,
    "product": "ポケモンカード ニンジャスピナー、ポケモンカード ムニキスゼロ",
    "reminded": false,
@@ -1288,7 +1297,7 @@
   },
   "a8df97c5dfadec58": {
    "first_seen": "2026-11-25T23:09+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": false,
    "product": "プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
@@ -1324,7 +1333,7 @@
   },
   "ab0ae4f70279017a": {
    "first_seen": "2026-11-20T21:43+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": true,
    "product": "ポケモンカードゲーム カードイラストフィギュアコレクション 30th CELEBRATION",
    "reminded": false,
@@ -1405,7 +1414,7 @@
   },
   "b49aeec0062752f1": {
    "first_seen": "2026-11-24T13:42+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": true,
    "product": "拡張パック ハドウシーカー",
    "reminded": true,
@@ -1477,7 +1486,7 @@
   },
   "ba976ddee3703af0": {
    "first_seen": "2026-11-25T02:29+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": true,
    "product": "ロケット団の栄光",
    "reminded": false,
@@ -1495,7 +1504,7 @@
   },
   "baebd02c18b6c2b6": {
    "first_seen": "2026-11-24T13:42+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": false,
    "product": "MEGAドリームex",
    "reminded": false,
@@ -1602,7 +1611,7 @@
   },
   "cc6fe5790ccb3ec8": {
    "first_seen": "2026-11-25T02:29+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": false,
    "product": "30th CELEBRATION カードセット9種",
    "reminded": false,
@@ -1611,7 +1620,7 @@
   },
   "cd96c5278f391c19": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "product": "ポケモンカード 30th CELEBRATION BOX、ポケモンカード 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
    "reminded": false,
    "shop": "ポケモンセンターオンライン",
@@ -1727,7 +1736,7 @@
   },
   "d77d35a7691976a3": {
    "first_seen": "2026-11-20T11:59+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": true,
    "product": "ポケモンカード ハドウシーカー、ポケモンカード 30th CELEBRATION カードセット各種",
    "reminded": false,
@@ -1761,9 +1770,18 @@
    "shop": "ヤマダデンキ",
    "tier": "B"
   },
+  "d9f6a7ec4841fc2c": {
+   "first_seen": "2026-11-26T19:44+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
+   "notified": false,
+   "product": "ポケモンカード 30th CELEBRATION BOX、ポケモンカード MEGAドリームex、ポケモンカード ニンジャスピナー、ポケモンカード ストームエメラルダ、ポケモンカード メガブレイブ、ポケモンカード メガシンフォニア",
+   "reminded": false,
+   "shop": "ビックカメラなんば店",
+   "tier": "B"
+  },
   "db97ff3aaaeb13e1": {
    "first_seen": "2026-10-26T21:48+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": true,
    "product": "ポケモンカード ハドウシーカー",
    "reminded": false,
@@ -1844,7 +1862,7 @@
   },
   "e265a7c8d82b915f": {
    "first_seen": "2026-10-01T23:14+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "product": "ポケモンカード、ワンピースカード、ドラゴンボールフュージョンワールド新弾各種",
    "reminded": false,
    "shop": "ノジマオンライン",
@@ -1951,7 +1969,7 @@
   },
   "f06307fbb9df424a": {
    "first_seen": "2026-11-25T23:09+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": true,
    "product": "ストームエメラルダ",
    "reminded": false,
@@ -1966,6 +1984,15 @@
    "reminded": true,
    "shop": "しまむらパーク",
    "tier": "A"
+  },
+  "f1a3a5073bed077c": {
+   "first_seen": "2026-11-26T19:44+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
+   "notified": false,
+   "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
+   "reminded": false,
+   "shop": "ホビーサーチ",
+   "tier": "C"
   },
   "f23c466ca61f58da": {
    "first_seen": "2026-11-17T13:25+09:00",
@@ -2014,7 +2041,7 @@
   },
   "faaca897b6e97ca3": {
    "first_seen": "2026-11-20T11:59+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": true,
    "product": "30th CELEBRATION BOX",
    "reminded": false,
@@ -2050,7 +2077,7 @@
   },
   "ffc83d249b8a07ff": {
    "first_seen": "2026-11-24T13:42+09:00",
-   "last_seen": "2026-11-26T09:11+09:00",
+   "last_seen": "2026-11-26T19:44+09:00",
    "notified": true,
    "product": "拡張パック「ムニキスゼロ」",
    "reminded": true,
